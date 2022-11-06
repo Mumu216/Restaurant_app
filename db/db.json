@@ -1,0 +1,108 @@
+{
+  "user": [
+    {
+      "name": "Farzana Mumu",
+      "email": "farzanamumu@gmail.com",
+      "password": "mumu@12345",
+      "id": 1
+    },
+    {
+      "name": "Raha Tasnim",
+      "email": "tasnim@gmail.com",
+      "password": "raha@12345",
+      "id": 2
+    },
+    {
+      "name": "Farzana Mumu",
+      "email": "farzanamumu752@gmail.com",
+      "password": "12345678",
+      "id": 3
+    },
+    {
+      "name": "Rakhi Islam",
+      "email": "rakhi@gmail.com",
+      "password": "rakhi12345",
+      "id": 4
+    },
+    {
+      "name": "Mahi Taposhi",
+      "email": "mahi@gmail.com",
+      "password": "mahi1234567",
+      "id": 5
+    },
+    {
+      "name": "Faria Tanzin",
+      "email": "faria123@gmail.com",
+      "password": "faria123",
+      "id": 6
+    },
+    {
+      "name": "Tripti Hasan",
+      "email": "tripti123@gmail.com",
+      "password": "tripti1234",
+      "id": 7
+    },
+    {
+      "name": "Raha Tasnim",
+      "email": "tasnim@gmail.com",
+      "password": "raha@12345",
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "BFC",
+      "address": "Mirpur 10",
+      "contact": 1234
+    },
+    {
+      "id": 2,
+      "name": "Pizza Burg",
+      "address": "Uttora Sector 13",
+      "contact": 2222
+    },
+    {
+      "name": "Cafe Rio",
+      "address": "Mirpur 13",
+      "contact": 5555,
+      "id": 3
+    },
+    {
+      "name": "Khanas",
+      "address": "Uttora Sector 14",
+      "contact": 999988,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "The Buffet Palace",
+      "address": "Uttora Sector 12",
+      "contact": 788956
+    },
+    {
+      "id": 6,
+      "name": "3 Food Ecb",
+      "address": "Ecb Chattor Branch",
+      "contact": 75356
+    },
+    {
+      "id": 7,
+      "name": "Kuddos",
+      "address": "Bashundhara Branch",
+      "contact": 90563
+    },
+    {
+      "id": 8,
+      "name": "Chillox",
+      "address": "Banani Branch",
+      "contact": 67834
+    }
+  ]
+}
